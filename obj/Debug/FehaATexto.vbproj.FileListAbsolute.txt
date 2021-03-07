@@ -1,0 +1,12 @@
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\obj\Debug\FehaATexto.vbprojAssemblyReference.cache
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\obj\Debug\FehaATexto.Form1.resources
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\obj\Debug\FehaATexto.Resources.resources
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\obj\Debug\FehaATexto.vbproj.GenerateResource.cache
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\obj\Debug\FehaATexto.vbproj.CoreCompileInputs.cache
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\bin\Debug\App Version Generator v.1.5.exe.config
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\bin\Debug\App Version Generator v.1.5.exe
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\bin\Debug\App Version Generator v.1.5.pdb
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\bin\Debug\App Version Generator v.1.5.xml
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\obj\Debug\App Version Generator v.1.5.exe
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\obj\Debug\App Version Generator v.1.5.xml
+C:\Users\60091\source\repos\FehaATexto\FehaATexto\obj\Debug\App Version Generator v.1.5.pdb
